@@ -12,18 +12,17 @@
 </div>
 <br/>
 <div align="center">
-  <a href="https://linkedin.com/in/arpan-chaudhari"><img src="https://img.shields.io/badge/LinkedIn-Profile-3c096c?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:arpanchaudhari810@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-240046?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ArpanChaudhari"><img src="https://img.shields.io/badge/GitHub-Profile-10002b?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/arpan-chaudhari"><img src="https://img.shields.io/badge/-LinkedIn-5a189a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:arpanchaudhari810@gmail.com"><img src="https://img.shields.io/badge/-Email-3c096c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ArpanChaudhari"><img src="https://img.shields.io/badge/-GitHub-240046?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
-
 ---
 
 ## 👨‍💻 Professional Profile
 
-Aspiring **AI-ML Enthusiast** and **Full-Stack Developer** with hands-on experience building end-to-end ML pipelines and data-driven web applications. Proficient in Python, Scikit-Learn, Node.js, and modern data science tools. 
+Aspiring **AI-ML Enthusiast** and **Full-Stack Developer** with hands-on experience building end-to-end ML pipelines, generative AI applications, and data-driven web applications. Proficient in Python, Scikit-Learn, Node.js, and modern data science tools. 
 
-Passionate about solving real-world problems by combining predictive analytics with scalable, full-stack software solutions. I am driven by a product engineering mindset and focused on translating raw data into actionable insights through robust software architecture.
+Passionate about solving real-world problems by combining predictive analytics and LLMs with scalable, full-stack software solutions. I am driven by a product engineering mindset and focused on translating raw data into actionable insights through robust software architecture.
 
 **Open To:** Backend Development, Machine Learning Roles, Full-Stack Engineering
 
@@ -36,7 +35,6 @@ Passionate about solving real-world problems by combining predictive analytics w
 ### Languages
 <img src="https://img.shields.io/badge/Python-3c096c?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/JavaScript-240046?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Java-5a189a?style=for-the-badge&logo=java&logoColor=white" />
 
 ### Web Technologies & Databases
 <img src="https://img.shields.io/badge/Node.js-3c096c?style=for-the-badge&logo=node.js&logoColor=6DA55F" />
@@ -46,11 +44,12 @@ Passionate about solving real-world problems by combining predictive analytics w
 <img src="https://img.shields.io/badge/MongoDB-7b2cbf?style=for-the-badge&logo=mongodb&logoColor=4ea94b" />
 <img src="https://img.shields.io/badge/MySQL-240046?style=for-the-badge&logo=mysql&logoColor=white" />
 
-### Data Science & Core Libraries
+### Data Science & AI Libraries
 <img src="https://img.shields.io/badge/Scikit--Learn-240046?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
 <img src="https://img.shields.io/badge/Pandas-3c096c?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-5a189a?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-7b2cbf?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-9d4edd?style=for-the-badge&logo=python&logoColor=white" />
 
 ### Tools
 <img src="https://img.shields.io/badge/Git-240046?style=for-the-badge&logo=git&logoColor=F05033" />
@@ -61,17 +60,54 @@ Passionate about solving real-world problems by combining predictive analytics w
 
 ---
 
-## 🧠 AI / ML Expertise
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Machine Learning** | Intermediate | Regression, Classification, Clustering, SVM, Random Forest, Model Evaluation (R², MAE, RMSE) |
+| **Generative AI & NLP** | Intermediate | LLM Integration (Llama 3), Prompt Engineering, TF-IDF, Document Parsing |
+| **Machine Learning** | Intermediate | Regression, Classification, Clustering, SVM, Random Forest, Model Evaluation |
 | **Data Science & Analytics** | Intermediate | Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering |
 | **Data Visualization** | Intermediate | Creating insightful charts and plots using `Matplotlib` and `Seaborn` |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
+
+<details>
+<summary><b>JobHunter – AI-Powered Cover Letter Maker</b></summary>
+<br>
+
+A premium Streamlit web application that generates highly personalized cover letters by analyzing user resumes against job descriptions using Machine Learning and Generative AI.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | Python, Streamlit, Scikit-Learn, Groq API (Llama 3) |
+| **AI Features** | NLP PDF parsing, TF-IDF Cosine Similarity scoring, Skill Gap Analysis |
+| **Performance** | Ultra-fast cover letter generation securely via Groq Cloud API |
+| **Live App** | [Try JobHunter](https://job-hunter-app.streamlit.app/) |
+| **Repository** | [View Source Code](https://github.com/ArpanChaudhari/job_hunter) |
+
+*Developed a beautifully designed dark-mode interface processing PDF resumes and job descriptions. Engineered a Machine Learning pipeline to score applicant fit and dynamically prompt a Llama 3 LLM to seamlessly address skill gaps in a professional cover letter.*
+
+</details>
+
+<details>
+<summary><b>Customer Churn Prediction System</b></summary>
+<br>
+
+An analytical Machine Learning model built to predict customer attrition and identify key behavioral drivers for retention strategies.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | Python, Pandas, Scikit-Learn, Seaborn, Matplotlib |
+| **Techniques** | Exploratory Data Analysis, Feature Engineering, Classification |
+| **Models Used** | Logistic Regression, Random Forest, Decision Trees |
+| **Impact** | Provides actionable insights to proactively reduce customer churn |
+| **Repository** | [View Source Code](https://github.com/ArpanChaudhari/Customer-Churn-Prediction) |
+
+*Performed in-depth EDA to uncover behavioral patterns leading to customer churn. Engineered impactful features and trained robust classification models to accurately predict at-risk customers, allowing businesses to pivot retention strategies effectively.*
+
+</details>
 
 <details>
 <summary><b>Laptop Price Prediction System</b></summary>
@@ -85,7 +121,7 @@ An end-to-end Machine Learning pipeline designed to predict laptop prices based 
 | **Scale** | Processes diverse hardware specification datasets |
 | **Performance** | Benchmarked regression models for optimal R², MAE, and RMSE |
 | **Impact** | Provides interactive, data-driven real-time price estimations |
-| **Repository** | [View Source Code](https://github.com/ArpanChaudhari) |
+| **Repository** | [View Source Code](https://github.com/ArpanChaudhari/Laptop-Price-Predictor) |
 
 *Built an end-to-end ML pipeline, performing extensive EDA and feature engineering to optimize model accuracy. Deployed a real-time Streamlit web application for users to intuitively interact with the model.*
 
@@ -102,7 +138,7 @@ A robust and secure E-Commerce platform featuring comprehensive user authenticat
 | **Stack** | Node.js, Express.js, MongoDB Atlas |
 | **Security** | JWT Authentication, Bcrypt encryption, Custom middleware |
 | **Impact** | Seamless real-time checkout transactions |
-| **Repository** | [View Source Code](https://github.com/ArpanChaudhari) |
+| **Repository** | [View Source Code](https://github.com/ArpanChaudhari/ShopEase) |
 
 *Developed utilizing MVC architecture. Integrated the Razorpay payment gateway for secure transactions and optimized backend routing with custom Express middleware for fine-grained role-based access and error handling.*
 
@@ -110,7 +146,7 @@ A robust and secure E-Commerce platform featuring comprehensive user authenticat
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Web Development Intern** | *InnovateMR*
 *Jan 2026 – May 2026*
@@ -121,33 +157,33 @@ A robust and secure E-Commerce platform featuring comprehensive user authenticat
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ArpanChaudhari&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanChaudhari&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </div>
 
 ---
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanChaudhari&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9d4edd&line=7b2cbf&point=5a189a" width="100%" />
 </div>
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Current_State:
   Learning: 
+    - "Generative AI & Prompt Engineering"
     - "Machine Learning Algorithms"
     - "Data Science (NumPy, Pandas)"
   Building: 
+    - "AI-Powered Web Applications"
     - "End-to-End ML Pipelines"
-    - "Data-driven Web Applications"
   Exploring: 
+    - "LLM Integration (Groq, Ollama)"
     - "Predictive Analytics"
-    - "Feature Engineering"
   Open_To: 
     - "Backend Development"
-    - "Machine Learning Roles"
+    - "Machine Learning & AI Roles"
