@@ -16,7 +16,6 @@
   <a href="mailto:arpanchaudhari810@gmail.com"><img src="https://img.shields.io/badge/-Email-3c096c?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ArpanChaudhari"><img src="https://img.shields.io/badge/-GitHub-240046?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
----
 
 ## 👨‍💻 Professional Profile
 
@@ -103,6 +102,7 @@ An analytical Machine Learning model built to predict customer attrition and ide
 | **Techniques** | Exploratory Data Analysis, Feature Engineering, Classification |
 | **Models Used** | Logistic Regression, Random Forest, Decision Trees |
 | **Impact** | Provides actionable insights to proactively reduce customer churn |
+| **Live App** | [Try](https://customer-churn-prediction-arpan.streamlit.app/) |
 | **Repository** | [View Source Code](https://github.com/ArpanChaudhari/Customer-Churn-Prediction) |
 
 *Performed in-depth EDA to uncover behavioral patterns leading to customer churn. Engineered impactful features and trained robust classification models to accurately predict at-risk customers, allowing businesses to pivot retention strategies effectively.*
@@ -121,6 +121,7 @@ An end-to-end Machine Learning pipeline designed to predict laptop prices based 
 | **Scale** | Processes diverse hardware specification datasets |
 | **Performance** | Benchmarked regression models for optimal R², MAE, and RMSE |
 | **Impact** | Provides interactive, data-driven real-time price estimations |
+| **Live App** | [Try](https://laptop-price-prediction-arpan.streamlit.app/) |
 | **Repository** | [View Source Code](https://github.com/ArpanChaudhari/Laptop-Price-Predictor) |
 
 *Built an end-to-end ML pipeline, performing extensive EDA and feature engineering to optimize model accuracy. Deployed a real-time Streamlit web application for users to intuitively interact with the model.*
@@ -138,6 +139,7 @@ A robust and secure E-Commerce platform featuring comprehensive user authenticat
 | **Stack** | Node.js, Express.js, MongoDB Atlas |
 | **Security** | JWT Authentication, Bcrypt encryption, Custom middleware |
 | **Impact** | Seamless real-time checkout transactions |
+| **Live App** | [Try](https://shopease-e-commerse-application.onrender.com/) |
 | **Repository** | [View Source Code](https://github.com/ArpanChaudhari/ShopEase) |
 
 *Developed utilizing MVC architecture. Integrated the Razorpay payment gateway for secure transactions and optimized backend routing with custom Express middleware for fine-grained role-based access and error handling.*
