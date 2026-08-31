@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Arpan%20Chaudhari&fontSize=70&fontAlignY=38&desc=Backend%20Developer%20|%20AI-ML%20Enthusiast&descAlignY=55&descAlign=62&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=250&section=header&text=Arpan%20Chaudhari&fontSize=70&fontAlignY=38&desc=AI-ML%20Engineer%20|%20Backend%20Developer&descAlignY=55&descAlign=62&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Building+End-to-End+ML+Pipelines;Transitioning+to+Machine+Learning;Solving+Real-World+Problems+with+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Building+Scalable+AI-Powered+Apps;Deep+Learning+%26+PyTorch;FastAPI+%26+Backend+Development;Aspiring+LLM+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,13 +17,19 @@
   <a href="https://github.com/ArpanChaudhari"><img src="https://img.shields.io/badge/-GitHub-240046?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-## 👨‍💻 Professional Profile
+## 👨💻 Professional Profile
 
-Aspiring **AI-ML Enthusiast** and **Full-Stack Developer** with hands-on experience building end-to-end ML pipelines, generative AI applications, and data-driven web applications. Proficient in Python, Scikit-Learn, Node.js, and modern data science tools. 
+Aspiring **AI-ML Engineer** and **Backend Developer** with hands-on experience building end-to-end Machine Learning pipelines, Deep Learning models, and robust, data-driven web applications. Proficient in Python, PyTorch, Scikit-Learn, FastAPI, and modern data science tools. 
 
-Passionate about solving real-world problems by combining predictive analytics and LLMs with scalable, full-stack software solutions. I am driven by a product engineering mindset and focused on translating raw data into actionable insights through robust software architecture.
+Passionate about solving real-world problems by combining predictive analytics, deep learning, and LLMs with scalable, full-stack software architecture. I am driven by a product engineering mindset and focused on bridging the gap between raw data models and production-ready applications.
 
-**Open To:** Backend Development, Machine Learning Roles, Full-Stack Engineering
+**Open To:** AI/ML Engineer, Machine Learning Roles, Backend Development (Python/FastAPI)
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🏅 **Deep Learning with PyTorch Bootcamp** – *OpenCV University*
 
 ---
 
@@ -35,25 +41,27 @@ Passionate about solving real-world problems by combining predictive analytics a
 <img src="https://img.shields.io/badge/Python-3c096c?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/JavaScript-240046?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-### Web Technologies & Databases
+### Backend & Web Technologies
+<img src="https://img.shields.io/badge/FastAPI-240046?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-3c096c?style=for-the-badge&logo=node.js&logoColor=6DA55F" />
 <img src="https://img.shields.io/badge/Express.js-5a189a?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-7b2cbf?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-9d4edd?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-7b2cbf?style=for-the-badge&logo=mongodb&logoColor=4ea94b" />
-<img src="https://img.shields.io/badge/MySQL-240046?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-9d4edd?style=for-the-badge&logo=mysql&logoColor=white" />
 
-### Data Science & AI Libraries
-<img src="https://img.shields.io/badge/Scikit--Learn-240046?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/Pandas-3c096c?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-5a189a?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-7b2cbf?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-9d4edd?style=for-the-badge&logo=python&logoColor=white" />
+### AI, ML & Deep Learning
+<img src="https://img.shields.io/badge/PyTorch-240046?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-3c096c?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/OpenCV-5a189a?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-7b2cbf?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-9d4edd?style=for-the-badge&logo=numpy&logoColor=white" />
+<!-- Matplotlib badge fixed (removed incorrect Python logo) -->
+<img src="https://img.shields.io/badge/Matplotlib-240046?style=for-the-badge&logoColor=white" />
 
-### Tools
-<img src="https://img.shields.io/badge/Git-240046?style=for-the-badge&logo=git&logoColor=F05033" />
-<img src="https://img.shields.io/badge/Postman-3c096c?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-<img src="https://img.shields.io/badge/Streamlit-5a189a?style=for-the-badge&logo=streamlit&logoColor=white" />
+### Tools & Data Validation
+<img src="https://img.shields.io/badge/Pydantic-3c096c?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-5a189a?style=for-the-badge&logo=git&logoColor=F05033" />
+<img src="https://img.shields.io/badge/Postman-7b2cbf?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/Streamlit-9d4edd?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 </div>
 
@@ -63,14 +71,32 @@ Passionate about solving real-world problems by combining predictive analytics a
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
+| **Deep Learning & CV** | Intermediate | PyTorch, Neural Networks, OpenCV, Transfer Learning |
 | **Generative AI & NLP** | Intermediate | LLM Integration (Llama 3), Prompt Engineering, TF-IDF, Document Parsing |
 | **Machine Learning** | Intermediate | Regression, Classification, Clustering, SVM, Random Forest, Model Evaluation |
 | **Data Science & Analytics** | Intermediate | Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering |
-| **Data Visualization** | Intermediate | Creating insightful charts and plots using `Matplotlib` and `Seaborn` |
+| **Robust APIs** | Intermediate | FastAPI, Data Validation (Pydantic), Integrating ML models with Backend |
 
 ---
 
 ## Featured Projects
+
+<details>
+<summary><b>PyTorch Deep Learning & Computer Vision</b></summary>
+<br>
+
+A collection of hands-on Deep Learning implementations and micro-projects focused on Computer Vision, built during my PyTorch learning journey.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | Python, PyTorch, Torchvision |
+| **Model Fine-Tuning** | Implemented Transfer Learning for custom Image Classification by fine-tuning a pre-trained `mobilenet_v3_small` architecture. |
+| **Fashion MNIST** | Designed, trained, and evaluated custom neural network architectures from scratch for multi-class image classification. |
+| **Repository** | [View Source Code](https://github.com/ArpanChaudhari/Learn-PyTorch) |
+
+*Gained practical expertise in building training loops, managing PyTorch datasets & dataloaders, analyzing loss/accuracy metrics, and leveraging advanced pre-trained models to accelerate and improve Computer Vision tasks.*
+
+</details>
 
 <details>
 <summary><b>JobHunter – AI-Powered Cover Letter Maker</b></summary>
@@ -177,15 +203,14 @@ A robust and secure E-Commerce platform featuring comprehensive user authenticat
 ```yaml
 Current_State:
   Learning: 
-    - "Generative AI & Prompt Engineering"
-    - "Machine Learning Algorithms"
-    - "Data Science (NumPy, Pandas)"
+    - "Large Language Models (LLM Engineering)"
+    - "Deep Learning Architectures"
   Building: 
-    - "AI-Powered Web Applications"
-    - "End-to-End ML Pipelines"
+    - "AI-Powered Apps with FastAPI & ML"
+    - "End-to-End PyTorch Pipelines"
   Exploring: 
-    - "LLM Integration (Groq, Ollama)"
-    - "Predictive Analytics"
-  Open_To: 
-    - "Backend Development"
-    - "Machine Learning & AI Roles"
+    - "Computer Vision with OpenCV"
+    - "Advanced Data Validation (Pydantic)"
+  Focus: 
+    - "AI-ML Engineering"
+    - "Seamlessly integrating ML Models with Backends"
