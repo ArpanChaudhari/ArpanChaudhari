@@ -17,19 +17,22 @@
   <a href="https://github.com/ArpanChaudhari"><img src="https://img.shields.io/badge/-GitHub-240046?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
-## 👨💻 Professional Profile
+## 👨‍💻 Professional Profile
 
-Aspiring **AI-ML Engineer** and **Backend Developer** with hands-on experience building end-to-end Machine Learning pipelines, Deep Learning models, and robust, data-driven web applications. Proficient in Python, PyTorch, Scikit-Learn, FastAPI, and modern data science tools. 
+Aspiring **Machine Learning Engineer** and **AI Developer** specializing in building end-to-end ML pipelines and intelligent, data-driven web applications. With a strong foundation in Python, PyTorch, and modern backend frameworks like FastAPI and Node.js, I bridge the gap between complex AI models and production-ready software.
 
-Passionate about solving real-world problems by combining predictive analytics, deep learning, and LLMs with scalable, full-stack software architecture. I am driven by a product engineering mindset and focused on bridging the gap between raw data models and production-ready applications.
+I am deeply passionate about solving real-world problems by integrating predictive analytics, computer vision, and generative AI with scalable architecture. Driven by a product engineering mindset, I focus on delivering secure, low-latency, and user-centric AI solutions.
 
-**Open To:** AI/ML Engineer, Machine Learning Roles, Backend Development (Python/FastAPI)
+**Open To:** Machine Learning Engineer, AI Developer, Backend Engineer (Python/FastAPI)
 
 ---
 
 ## 🏆 Certifications & Achievements
 
 - 🏅 **Deep Learning with PyTorch Bootcamp** – *OpenCV University*
+- 🏅 **Machine Learning Foundations** – *AWS*
+- 🏅 **Exploratory Data Analysis** – *FutureSkills Prime*
+- 🏅 **Claude 101** – *Anthropic*
 
 ---
 
@@ -40,6 +43,7 @@ Passionate about solving real-world problems by combining predictive analytics, 
 ### Languages
 <img src="https://img.shields.io/badge/Python-3c096c?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/JavaScript-240046?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Java-5a189a?style=for-the-badge&logo=java&logoColor=white" />
 
 ### Backend & Web Technologies
 <img src="https://img.shields.io/badge/FastAPI-240046?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -54,7 +58,6 @@ Passionate about solving real-world problems by combining predictive analytics, 
 <img src="https://img.shields.io/badge/OpenCV-5a189a?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-7b2cbf?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-9d4edd?style=for-the-badge&logo=numpy&logoColor=white" />
-<!-- Matplotlib badge fixed (removed incorrect Python logo) -->
 <img src="https://img.shields.io/badge/Matplotlib-240046?style=for-the-badge&logoColor=white" />
 
 ### Tools & Data Validation
@@ -71,7 +74,7 @@ Passionate about solving real-world problems by combining predictive analytics, 
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Deep Learning & CV** | Intermediate | PyTorch, Neural Networks, OpenCV, Transfer Learning |
+| **Deep Learning & CV** | Intermediate | PyTorch, Neural Networks, OpenCV, Transfer Learning, MediaPipe |
 | **Generative AI & NLP** | Intermediate | LLM Integration (Llama 3), Prompt Engineering, TF-IDF, Document Parsing |
 | **Machine Learning** | Intermediate | Regression, Classification, Clustering, SVM, Random Forest, Model Evaluation |
 | **Data Science & Analytics** | Intermediate | Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering |
@@ -82,19 +85,21 @@ Passionate about solving real-world problems by combining predictive analytics, 
 ## Featured Projects
 
 <details>
-<summary><b>PyTorch Deep Learning & Computer Vision</b></summary>
+<summary><b>SignAssist: Real-Time Sign Language Translator</b></summary>
 <br>
 
-A collection of hands-on Deep Learning implementations and micro-projects focused on Computer Vision, built during my PyTorch learning journey.
+A real-time Computer Vision system built to translate sign language gestures into text directly in the browser, ensuring absolute privacy and zero latency.
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Python, PyTorch, Torchvision |
-| **Model Fine-Tuning** | Implemented Transfer Learning for custom Image Classification by fine-tuning a pre-trained `mobilenet_v3_small` architecture. |
-| **Fashion MNIST** | Designed, trained, and evaluated custom neural network architectures from scratch for multi-class image classification. |
-| **Repository** | [View Source Code](https://github.com/ArpanChaudhari/Learn-PyTorch) |
+| **Stack** | Python, PyTorch, MediaPipe, ONNX, JavaScript, Tailwind CSS |
+| **CV Pipeline** | Engineered a pipeline extracting 63 3D spatial hand landmarks per frame to ensure scale-invariant inference. |
+| **Edge Inference** | Converted the PyTorch neural network to ONNX format, achieving seamless 30+ FPS directly in-browser using ONNX Runtime Web. |
+| **Impact** | Fully client-side inference guarantees 100% user privacy and 0ms server latency, classifying 38 sign language gestures. |
+| **Live App** | [Try SignAssist](https://arpanchaudhari.github.io/SignAssist/) |
+| **Repository** | [View Source Code](https://github.com/ArpanChaudhari/SignAssist) |
 
-*Gained practical expertise in building training loops, managing PyTorch datasets & dataloaders, analyzing loss/accuracy metrics, and leveraging advanced pre-trained models to accelerate and improve Computer Vision tasks.*
+*Developed a privacy-first web application bridging accessibility and AI, utilizing deep learning for high-accuracy gesture recognition and a polished frontend for fluid, real-time user experience.*
 
 </details>
 
@@ -127,7 +132,7 @@ An analytical Machine Learning model built to predict customer attrition and ide
 | **Stack** | Python, Pandas, Scikit-Learn, Seaborn, Matplotlib |
 | **Techniques** | Exploratory Data Analysis, Feature Engineering, Classification |
 | **Models Used** | Logistic Regression, Random Forest, Decision Trees |
-| **Impact** | Provides actionable insights to proactively reduce customer churn |
+| **Impact** | Engineered an ML pipeline with 78% recall, built an interactive analytics dashboard. |
 | **Live App** | [Try](https://customer-churn-prediction-arpan.streamlit.app/) |
 | **Repository** | [View Source Code](https://github.com/ArpanChaudhari/Customer-Churn-Prediction) |
 
@@ -177,9 +182,9 @@ A robust and secure E-Commerce platform featuring comprehensive user authenticat
 ## Professional Experience
 
 **Web Development Intern** | *InnovateMR*
-*Jan 2026 – May 2026*
+*Jan 2026 – May 2026 | Ahmedabad, Gujarat*
 - Built full-stack web applications, gaining hands-on mastery of Node.js, Express.js, MongoDB, and JavaScript.
-- Learned to design and implement robust RESTful APIs, secure user authentication systems, and database schemas.
+- Designed and implemented robust RESTful APIs, secure authentication systems, and database schemas.
 - Acquired practical experience in software engineering best practices through active problem-solving and debugging.
 `Node.js` `Express.js` `MongoDB` `JavaScript` `REST APIs`
 
@@ -195,9 +200,9 @@ A robust and secure E-Commerce platform featuring comprehensive user authenticat
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArpanChaudhari&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9d4edd&line=7b2cbf&point=5a189a" width="100%" />
+  <!-- Switched to a reliable alternative host of the activity-graph project to bypass the 402 error -->
+  <img src="https://activity-graph.vercel.app/graph?username=ArpanChaudhari&bg_color=0d1117&color=9d4edd&line=7b2cbf&point=5a189a&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
-
 ## Current Focus
 
 ```yaml
