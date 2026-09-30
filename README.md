@@ -83,7 +83,23 @@ I am deeply passionate about solving real-world problems by integrating predicti
 ---
 
 ## Featured Projects
+<details>
+<summary><b>TicketIQ – AI-Powered Support Ticket Analyzer</b></summary>
+<br>
 
+An intelligent customer support platform that processes ticket data, enabling natural-language querying, anomaly detection, and real-time insights through a REST API and interactive UI.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | Python, FastAPI, Streamlit, Pandas, Groq API (LLM) |
+| **AI Features** | Natural-language query execution (LLM Text-to-Pandas), Rule-based & Statistical Anomaly Detection |
+| **Architecture** | Modular backend with FastAPI REST endpoints connected to a dynamic Streamlit frontend |
+| **Live App** | [Try TicketIQ](https://ticketiq.streamlit.app/) |
+| **Repository** | [View Source Code](https://github.com/ArpanChaudhari/TicketIQ) |
+
+*Engineered an end-to-end data analysis platform by combining a robust FastAPI backend with an interactive Streamlit dashboard. Leveraged Generative AI to translate natural language into executable queries, providing automated insights and anomaly detection for support operations.*
+
+</details>
 <details>
 <summary><b>SignAssist: Real-Time Sign Language Translator</b></summary>
 <br>
