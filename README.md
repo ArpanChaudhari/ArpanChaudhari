@@ -12,8 +12,6 @@
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LINKEDIN-247bff?style=flat-square&labelColor=0d182c&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpan-chaudhari) |
 | **Email** | [![Email](https://img.shields.io/badge/SEND%20A%20MESSAGE-ff354f?style=flat-square&labelColor=0d182c&logo=gmail&logoColor=white)](mailto:arpanchaudhari810@gmail.com) |
 | **Resume** | [![Resume](https://img.shields.io/badge/VIEW%20PDF-247bff?style=flat-square&labelColor=0d182c&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1lf-0BY9m1w8bWkgK6TXZI-hJnR7ytINJ/view?usp=drive_link) |
-| **GitHub** | [![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-284465?style=flat-square&labelColor=0d182c&logo=github&logoColor=white)](https://github.com/ArpanChaudhari) |
-
 </div>
 
 <p align="center">
